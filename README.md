@@ -35,7 +35,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat&logo=mediapipe&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFCC00?style=flat)
 
 **Tools & Platforms:**  
@@ -59,11 +58,7 @@ Real-time Detection • GAN Training • Model Debugging • OCR Integration •
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=290Priyansh&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=290Priyansh&layout=compact&theme=tokyonight&hide_border=true" />
+   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=290Priyansh&layout=compact&theme=tokyonight&hide_border=true" />-
 </p>
 
 ---
