@@ -57,8 +57,8 @@ Real-time Detection • GAN Training • Model Debugging • OCR Integration •
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=290Priyansh&show_icons=true&theme=tokyonight&hide_border=true" />
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=290Priyansh&layout=compact&theme=tokyonight&hide_border=true" />-
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=290Priyansh&show_icons=true&theme=radical&hide_border=true" />
+   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=290Priyansh&layout=compact&theme=radical&hide_border=true" />-
 </p>
 
 ---
