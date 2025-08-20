@@ -46,10 +46,10 @@
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract-35495E?style=flat)
 
 **Core Domains:**  
-`Computer Vision` • `Deep Learning` • `OCR & Image Processing` • `Game Development` • `Automation Scripts` • `AI Projects`
+`Computer Vision` • `Deep Learning` • `OCR & Image Processing`  • `Automation Scripts` • `AI Projects`
 
 **Skills:**  
-Real-time Detection • GAN Training • Model Debugging • OCR Integration • UI/UX Design • CLI Tools • Collaboration & Version Control
+Real-time Detection  • Model Debugging • OCR Integration • UI/UX Design • CLI Tools • Collaboration & Version Control
 
 
 ---
