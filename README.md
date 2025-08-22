@@ -77,7 +77,9 @@ Real-time Detection  • Model Debugging • OCR Integration • UI/UX Design �
 </p>
 
 
-![Snake animation](https://github.com/290Priyansh/290Priyansh/blob/output/github-contribution-grid-snake.svg?color=FFA500&snake=classic)
+![Snake animation](https://github.com/290Priyansh/290Priyansh/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/290Priyansh/290Priyansh/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 
