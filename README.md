@@ -54,6 +54,21 @@ Real-time Detection  • Model Debugging • OCR Integration • UI/UX Design �
 
 ---
 
+## 📊Code Profiles 
+
+<div align="center">
+  
+<p>
+  <a href="https://leetcode.com/name/">
+    <img src="https://leetcard.jacoblin.cool/priyanshvaish?theme=dark&font=Overlock%20SC&ext=activity" width="400"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -62,6 +77,16 @@ Real-time Detection  • Model Debugging • OCR Integration • UI/UX Design �
 </p>
 
 ![snake gif](https://github.com/290Priyansh/290Priyansh/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎯 What I Bring to AI/ML Teams
+
+- **Research Mindset**: Academic-level rigor with practical implementation skills
+- **Production Experience**: Scalable systems handling real-world constraints  
+- **Full-Stack Capability**: End-to-end AI product development
+- **Performance Focus**: Optimization for latency-critical applications
+- **Diverse Domains**: Experience across computer vision, NLP, and mobile AI
 
 ---
 
