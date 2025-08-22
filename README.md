@@ -61,6 +61,8 @@ Real-time Detection  • Model Debugging • OCR Integration • UI/UX Design �
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=290Priyansh&layout=compact&theme=radical&hide_border=true" />-
 </p>
 
+![snake gif](https://github.com/290Priyansh/290Priyansh/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 📫 Connect with Me
