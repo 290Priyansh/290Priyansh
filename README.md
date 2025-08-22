@@ -90,7 +90,7 @@ Real-time Detection  • Model Debugging • OCR Integration • UI/UX Design �
 - **Production Experience**: Scalable systems handling real-world constraints  
 - **Full-Stack Capability**: End-to-end AI product development
 - **Performance Focus**: Optimization for latency-critical applications
-- **Diverse Domains**: Experience across computer vision, NLP, and mobile AI
+- **Diverse Domains**: Experience across computer vision, NLP, and AI
 
 ---
 
