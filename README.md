@@ -67,16 +67,32 @@ Real-time Detection  • Model Debugging • OCR Integration • UI/UX Design �
 </div>
 
 ---
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=290Priyansh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" alt="Priyansh's GitHub stats" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=290Priyansh&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF" alt="Top Langs" height="180"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=290Priyansh&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph"/>
+    </td>
+  </tr>
+</table>
+  
+![snake gif](https://github.com/290Priyansh/290Priyansh/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/290Priyansh/290Priyansh/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=290Priyansh&show_icons=true&theme=radical&hide_border=true" />
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=290Priyansh&layout=compact&theme=radical&hide_border=true" />-
-</p>
-
-![Snake animation](https://github.com/290Priyansh/290Priyansh/blob/output/github-contribution-grid-snake.svg?color_snake=%23ff6600&color_dots=%2300ff00)
 
 
 
