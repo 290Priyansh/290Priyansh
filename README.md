@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 🎓 Pursuing **B.Tech in Computer Science** (AI & ML) at **VIT Bhopal University** (3rd Year)  
-🛠 Currently building projects in **Machine Learning**, **Computer Vision**, and ** Generative AI**  
+🛠 Currently building projects in **Machine Learning**, **Computer Vision**, and **Generative AI**  
 💡 Passionate about solving real-world problems through intelligent systems  
 🌍 Based in **Pune, Maharashtra**  
 🎯 Open to learning, collaborating, and contributing to innovative tech
