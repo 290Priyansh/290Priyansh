@@ -57,14 +57,28 @@ Real-time Detection  • Model Debugging • OCR Integration • UI/UX Design �
 ## 📊Code Profiles 
 
 <div align="center">
-  
-<p>
-  <a href="https://leetcode.com/name/">
-    <img src="https://leetcard.jacoblin.cool/priyanshvaish?theme=dark&font=Overlock%20SC&ext=activity" width="400"/>
-  </a>
-</p>
-
+  <table>
+    <tr>
+      <td style="vertical-align: top;">
+        <img 
+          src="https://leetcard.jacoblin.cool/priyanshvaish?theme=dark&font=Overlock%20SC&ext=solved" 
+          alt="Priyansh's LeetCode Stats"
+          width="400px"
+        />
+      </td>
+      <td style="vertical-align: top;">
+        <img 
+          src="https://leetcode-badge-showcase.vercel.app/api?username=priyanshvaish&theme=github-dark&font=Overlock%20SC&animated=true&border=no-border" 
+          alt="LeetCode Badges" 
+          width="400px"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
 
 ---
 ## 📊 GitHub Analytics
