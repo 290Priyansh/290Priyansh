@@ -44,12 +44,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract-35495E?style=flat)
+![Depth Estimation](https://img.shields.io/badge/Depth%20Estimation-4A90E2?style=flat)
+
+
 
 **Core Domains:**  
 `Computer Vision` • `Deep Learning` • `OCR & Image Processing`  • `Automation Scripts` • `AI Projects`
 
 **Skills:**  
-Real-time Detection  • Model Debugging • OCR Integration • UI/UX Design • CLI Tools • Collaboration & Version Control
+Real-time Detection  • Model Debugging • OCR Integration • UI/UX Design • CLI Tools • Collaboration & Version Control • Depth Estimation
 
 
 ---
