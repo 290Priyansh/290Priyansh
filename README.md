@@ -73,7 +73,7 @@ Real-time Detection  • Model Debugging • OCR Integration • UI/UX Design �
         <img 
           src="https://leetcode-badge-showcase.vercel.app/api?username=priyanshvaish&theme=github-dark&font=Overlock%20SC&animated=true&border=no-border" 
           alt="LeetCode Badges" 
-          width="400px"
+          width="400px" 
         />
       </td>
     </tr>
