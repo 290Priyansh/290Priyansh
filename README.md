@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Priyansh</h1>
+<h1 align="center">
+  Hi 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFmdW5nampjaGM4emJ4NG9rYW05ZDF4YXpvMWsxc2x1ZG03aXFqcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="32"/>
+  , I'm Priyansh 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhuOHFzbmc0eTF6YXB1azhubGV6dDR5ZjNjOW90aGg0b3dnMXRsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e1Lidalm3Axx8BmhC7/giphy.gif" width="40"/>
+
+</h1>
+
+
 
 <h3 align="center">Aspiring AI/ML engineer, building intelligent systems and learning every day to turn ideas into impact.</h3>
 
