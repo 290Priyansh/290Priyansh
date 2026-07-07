@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/priyanshvaish/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" />
 </a>
-<a href="mailto:priyansh.vaish01@gmail.com">
+<a href="mailto:priyansh.vaish01@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-A6E3A1?style=for-the-badge&logo=gmail&logoColor=1E1E2E" />
 </a>
 
@@ -30,7 +30,7 @@
 
 Computer Science undergraduate specializing in AI and Machine Learning, with applied experience across computer vision, applied machine learning, and retrieval-based systems. Comfortable working end-to-end — from model integration to backend deployment to evaluating systems for accuracy before shipping. Contributed to open-source software through national-level initiatives such as FOSSEE, IIT Bombay.
 
-📄 **Full Resume:** [View / Download Resume](mailto:priyansh.vaish01@gmail.com) &nbsp;|&nbsp; 🌐 **Portfolio:** [priyanshvaish.vercel.app](https://priyanshvaish.vercel.app/)
+📄 **Resume:** <a href="https://drive.google.com/file/d/1JVRz_v-gaejgGzxLnghNA5VqPNnxE6Fj/view?usp=sharing" target="_blank">View / Download Resume</a> &nbsp;
 
 ---
 
@@ -62,8 +62,8 @@ Computer Science undergraduate specializing in AI and Machine Learning, with app
 
 | Domain | Details |
 | :--- | :--- |
-| **Computer Vision** | Real-time detection & tracking, OCR pipelines — YOLOv8, OpenCV, Tesseract, MediaPipe |
-| **Deep Learning** | CNNs, depth estimation, model training & debugging — PyTorch, TensorFlow, Neural Networks |
+| **Computer Vision** | Real-time detection & tracking,depth estimation, Tesseract OCR, YOLOv8, OpenCV, MediaPipe |
+| **Deep Learning** | CNNs, model training & debugging, PyTorch, Neural Networks |
 | **GenAI / LLMs** | RAG pipelines, agentic workflows, prompt engineering, LLM integration  |
 | **Backend & APIs** | FastAPI services, Supabase integration, async request handling |
 | **Automation** | Workflow automation (n8n), scripting |
@@ -73,7 +73,7 @@ Computer Science undergraduate specializing in AI and Machine Learning, with app
 
 ## Experience
 
-### **FOSSEE – OSDAG, IIT Bombay** · *Summer Intern* · Mumbai, India (Offline) — *May 2026 – Present*
+### **FOSSEE – OSDAG, IIT Bombay** · *Summer Intern* · Mumbai, India (On-Site) — *May 2026 – Present*
 
 * Architected a client-side `.3ps` export/import engine using zlib and JSZip to compress and validate project archives
 * Engineered carbon emission calculations across 4 categories — materials, transportation, machinery, and traffic diversion — applying NITI Aayog and SSP/RCP emission standards
