@@ -1,71 +1,88 @@
-<h1 align="center">
-  Hi 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFmdW5nampjaGM4emJ4NG9rYW05ZDF4YXpvMWsxc2x1ZG03aXFqcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="32"/>
-  , I'm Priyansh Vaish
-  <img 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1E1E2E&height=140&section=header&text=Priyansh%20Vaish&fontColor=CBA6F7&fontSize=42&fontAlignY=45&desc=AI%20and%20ML%20%E2%80%A2%20Computer%20Vision%20and%20GenAI&descAlignY=68&descColor=A6E3A1&descSize=18" width="100%"/>
+<!-- 02. Typing SVG (Moved directly under the main name banner as requested) -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=750&lines=Final-Year+CS+Student+%28AI%2FML%29;Computer+Vision+%7C+Deep+Learning+%7C+GenAI+%26+RAG;Summer+Intern+%40+FOSSEE-OSDAG%2C+IIT+Bombay;Python+%7C+PyTorch+%7C+OpenCV+%7C+YOLOv8" alt="Typing SVG" />
 
-</h1>
+<br/>
+
+<!-- 03. Info Badges Row -->
+![Degree](https://img.shields.io/badge/B.Tech-Computer_Science_(AI%2FML)-CBA6F7?style=flat-square&labelColor=1E1E2E)
+![University](https://img.shields.io/badge/Vellore_Institute_Of_Technology-2023--2027-89B4FA?style=flat-square&labelColor=1E1E2E)
+![Location](https://img.shields.io/badge/%F0%9F%93%8D_Pune-Maharashtra-F38BA8?style=flat-square&labelColor=1E1E2E)
+ 
+
+<!-- 04. CTA Buttons Row -->
+<a href="https://www.linkedin.com/in/priyanshvaish/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" />
+</a>
+<a href="mailto:priyansh.vaish01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-A6E3A1?style=for-the-badge&logo=gmail&logoColor=1E1E2E" />
+</a>
+
+<a href="https://priyanshvaish.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-89B4FA?style=for-the-badge&logo=vercel&logoColor=1E1E2E" />
+</a>
+</div>
+
+---
+
+## About Me
+
+Computer Science undergraduate specializing in AI and Machine Learning, with applied experience across computer vision, applied machine learning, and retrieval-based systems. Comfortable working end-to-end — from model integration to backend deployment to evaluating systems for accuracy before shipping. Contributed to open-source software through national-level initiatives such as FOSSEE, IIT Bombay.
+
+📄 **Full Resume:** [View / Download Resume](mailto:priyansh.vaish01@gmail.com) &nbsp;|&nbsp; 🌐 **Portfolio:** [priyanshvaish.vercel.app](https://priyanshvaish.vercel.app/)
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**  
+![](https://skillicons.dev/icons?i=py,cpp,java,html,css&theme=dark)  
+`Python` • `C++` • `Java` • `HTML5` • `CSS3`   
+
+<br/>
+
+**Frameworks & Libraries**  
+![](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,sklearn&theme=dark)  
+`PyTorch` • `TensorFlow` • `OpenCV` • `FastAPI` • `scikit-learn`  
+
+<br/>
+
+**Tools & Platforms**  
+![](https://skillicons.dev/icons?i=git,github,vscode,docker,vercel&theme=dark)  
+`Git` • `GitHub` • `VS Code` • `Docker` • `Vercel`  
+</div>
+
+---
 
 
+## Expertise
 
-<h3 align="center">Aspiring AI/ML engineer, building intelligent systems and learning every day to turn ideas into impact.</h3>
+| Domain | Details |
+| :--- | :--- |
+| **Computer Vision** | Real-time detection & tracking, OCR pipelines — YOLOv8, OpenCV, Tesseract, MediaPipe |
+| **Deep Learning** | CNNs, depth estimation, model training & debugging — PyTorch, TensorFlow, Neural Networks |
+| **GenAI / LLMs** | RAG pipelines, agentic workflows, prompt engineering, LLM integration  |
+| **Backend & APIs** | FastAPI services, Supabase integration, async request handling |
+| **Automation** | Workflow automation (n8n), scripting |
+| **Cloud & Deployment** | Vercel, Docker Compose, AWS (Cloud Computing coursework) |
 
+---
 
+## Experience
+
+### **FOSSEE – OSDAG, IIT Bombay** · *Summer Intern* · Mumbai, India (Offline) — *May 2026 – Present*
+
+* Architected a client-side `.3ps` export/import engine using zlib and JSZip to compress and validate project archives
+* Engineered carbon emission calculations across 4 categories — materials, transportation, machinery, and traffic diversion — applying NITI Aayog and SSP/RCP emission standards
+* Modified 15+ React components and wrote unit tests validating emission formula accuracy across the platform
 
 
 ---
 
-### 👨‍💻 About Me
-
-🎓 Pursuing **B.Tech in Computer Science** (AI & ML) at **VIT Bhopal University** (3rd Year)  
-🛠 Currently building projects in **Machine Learning**, **Computer Vision**, and **Generative AI**  
-💡 Passionate about solving real-world problems through intelligent systems  
-🌍 Based in **Pune, Maharashtra**  
-🎯 Open to learning, collaborating, and contributing to innovative tech
-
----
-
-### 🧰 Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-**Frameworks & Libraries:**  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat&logo=mediapipe&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFCC00?style=flat)
-
-**Tools & Platforms:**  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract-35495E?style=flat)
-![Depth Estimation](https://img.shields.io/badge/Depth%20Estimation-4A90E2?style=flat)
-
-
-
-**Core Domains:**  
-`Computer Vision` • `Deep Learning` • `OCR & Image Processing`  • `Automation Scripts` • `AI Projects`
-
-**Skills:**  
-Real-time Detection  • Model Debugging • OCR Integration • UI/UX Design • CLI Tools • Collaboration & Version Control • Depth Estimation
-
-
----
-
-## 📊Code Profiles 
+## Coding Profiles
 
 <div align="center">
   <table>
@@ -88,67 +105,46 @@ Real-time Detection  • Model Debugging • OCR Integration • UI/UX Design �
   </table>
 </div>
 
-
-
-
 ---
-## 📊 GitHub Analytics
+
+## GitHub Analytics
 
 <div align="center">
+  <!-- Top Stats Row -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=290Priyansh&show_icons=true&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=A6E3A1&icon_color=89B4FA&ring_color=F38BA8&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=290Priyansh&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7&sideNums=A6E3A1&sideLabels=89B4FA&dates=A6E3A1" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=290Priyansh&layout=compact&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=A6E3A1" height="180"/>
 
-  <table>
-  <tr>
-    <td align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=290Priyansh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" height="180"/>
-</td>
-<td align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=290Priyansh&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF" height="180"/>
-</td>
+  <br/><br/>
 
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=290Priyansh&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph"/>
-    </td>
-  </tr>
-</table>
-  
-![snake gif](https://github.com/290Priyansh/290Priyansh/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake gif](https://github.com/290Priyansh/290Priyansh/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  <!-- Active Load-Balanced Trophies Mirror (Bypasses the Vercel 503 outage) -->
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=290Priyansh&theme=dracula&column=7&no-frame=true" alt="GitHub Trophies" />
 
+  <br/><br/>
+
+  <!-- Activity Heatmap Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=290Priyansh&bg_color=1E1E2E&color=A6E3A1&line=CBA6F7&point=F38BA8&hide_border=true&area=true" width="100%"/>
 </div>
 
-
-
-
-
-
-
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/290Priyansh/290Priyansh/output/github-contribution-grid-snake-dark.svg" alt="Catppuccin Mocha Snake Animation" width="100%" />
+</div>
 
 ---
 
-## 🎯 What I Bring to AI/ML Teams
+```yaml
+open_to:
+  - AI/ML Engineering Roles  # End-to-end model development & training
+  - Computer Vision / GenAI Core  # Multi-modal systems, RAG, and edge deployment
+  - Software Engineering (AI/ML Track)  # Integrating intelligent systems into robust backends
+  - Research & Development Internships  # Fast prototyping and turning papers into production code
+  - Open-Source & Hackathon Collaborations  # Dynamic, fast-paced team building
+```
+<div align="center">
 
-- **Research Mindset**: Academic-level rigor with practical implementation skills
-- **Production Experience**: Scalable systems handling real-world constraints  
-- **Full-Stack Capability**: End-to-end AI product development
-- **Performance Focus**: Optimization for latency-critical applications
-- **Diverse Domains**: Experience across computer vision, NLP, and AI
+  <p><i>"Passionate about building intelligent systems engineered for the real world."</i></p>
 
----
 
-### 📫 Connect with Me
+<img src="https://capsule-render.vercel.app/api?type=wave&color=1E1E2E&height=100&section=footer" width="100%"/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/priyanshvaish/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:priyanshv.29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-  
-
+</div>
