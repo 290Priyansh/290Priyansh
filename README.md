@@ -62,7 +62,7 @@ Computer Science undergraduate specializing in AI and Machine Learning, with app
 
 | Domain | Details |
 | :--- | :--- |
-| **Computer Vision** | Real-time detection & tracking,depth estimation, Tesseract OCR, YOLOv8, OpenCV, MediaPipe |
+| **Computer Vision** | Real-time detection & tracking, depth estimation, Tesseract OCR, YOLOv8, OpenCV, MediaPipe |
 | **Deep Learning** | CNNs, model training & debugging, PyTorch, Neural Networks |
 | **GenAI / LLMs** | RAG pipelines, agentic workflows, prompt engineering, LLM integration  |
 | **Backend & APIs** | FastAPI services, Supabase integration, async request handling |
