@@ -19,12 +19,12 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: 290Priyansh
-          output-path: assets/space-shooter.webp
+          output-path: assets/space-shooter.gif
           strategy: random
-          fps: 40
+          fps: 20
 
       - name: Commit generated animation
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update space shooter"
-          file_pattern: assets/space-shooter.webp
+          file_pattern: assets/space-shooter.gif
