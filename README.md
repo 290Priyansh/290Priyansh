@@ -127,7 +127,7 @@ Computer Science undergraduate specializing in AI and Machine Learning, with app
 </div>
 
 <div align="center">
-<img src="./assets/space-shooter.gif" alt="GitHub Space Shooter" width="100%"/>
+<img src="./space-shooter.gif" alt="GitHub Space Shooter" width="100%"/>
 
 </div>
 
