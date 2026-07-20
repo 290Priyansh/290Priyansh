@@ -14,9 +14,6 @@ jobs:
         with:
           fetch-depth: 2
 
-      - name: Create assets directory
-        run: mkdir -p assets
-
       - name: Generate Space Shooter
         uses: czl9707/gh-space-shooter@v2
         with:
