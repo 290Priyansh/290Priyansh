@@ -1,0 +1,35 @@
+name: Update Space Shooter
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Generate Space Shooter
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: 290Priyansh
+          output-path: assets/space-shooter.webp
+          strategy: random
+          fps: 40
+
+      - name: Commit generated animation
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update space shooter"
+          file_pattern: assets/space-shooter.webp
