@@ -111,11 +111,8 @@ Computer Science undergraduate specializing in AI and Machine Learning, with app
 
 <div align="center">
   <!-- Top Stats Row -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=290Priyansh&show_icons=true&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=A6E3A1&icon_color=89B4FA&ring_color=F38BA8&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=290Priyansh&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7&sideNums=A6E3A1&sideLabels=89B4FA&dates=A6E3A1" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=290Priyansh&layout=compact&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=A6E3A1" height="180"/>
-
-  <br/><br/>
+ 
+ 
 
   <!-- Active Load-Balanced Trophies Mirror (Bypasses the Vercel 503 outage) -->
   <img src="https://github-profile-trophy-unserori.vercel.app/?username=290Priyansh&theme=dracula&column=7&no-frame=true" alt="GitHub Trophies" />
